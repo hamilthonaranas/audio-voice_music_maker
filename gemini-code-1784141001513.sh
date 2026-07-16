@@ -1,0 +1,1 @@
+pip install numpy librosa soundfile scipy pyworld
